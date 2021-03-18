@@ -1,0 +1,41 @@
+[
+  {
+    "1": "How many Union Territories are in India?",
+    "2": "Leh is the capital of _______",
+    "3": "Hirakud dam is the longest dam in India. It is located in ______",
+    "4": "________ is known as the Iron man of India",
+    "5": "Ellora Caves is a UNESCO world heritage site located in _______"
+  },
+  {
+    "1": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "2": [
+      "Ladakh",
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    "3": [
+      "Rajasthan",
+      "Punjab",
+      "Goa",
+      "Orissa"
+    ],
+    "4": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Khan Abdul Ghaffar Khan",
+      "Mahatma Gandhi"
+    ],
+    "5": [
+      "Maharashtra",
+      "Punjab",
+      "Goa",
+      "Orissa"
+    ]
+  }
+]

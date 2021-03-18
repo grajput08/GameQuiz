@@ -1,0 +1,42 @@
+[
+  {
+    "1": "What Indian city is the capital of two states?",
+    "2": "Which city is the capital of India?",
+    "3": "Smallest State of India?",
+    "4": "Where is Taj Mahal Located?",
+    "5": "Who was the first Prime Minister of India?"
+  },
+
+  {
+    "1": [
+      "Chandigarh",
+      "Kolkata",
+      "Delhi",
+      "Banglore"
+    ],
+    "2": [
+      "Jaipur",
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    "3": [
+      "Rajasthan",
+      "Punjab",
+      "Goa",
+      "Bihar"
+    ],
+    "4": [
+      "Lucknow",
+      "Agra",
+      "Bhopal",
+      "Delhi"
+    ],
+    "5": [
+      "Indira Gandhi",
+      "Narendra Modi",
+      "Jawaharlal Nehru",
+      "Rajiv Gandhi"
+    ]
+  }
+]

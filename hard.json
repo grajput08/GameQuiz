@@ -1,0 +1,41 @@
+[
+  {
+    "1": "Which is the biggest continent in the world?",
+    "2": "Which is longest river in the world?",
+    "3": "Which is the largest ocean in the world?",
+    "4": "Which is India’s first super computer?",
+    "5": "Which bank is called bankers bank of India?"
+  },
+  {
+    "1": [
+      "North America",
+      "Asia",
+      "Africa",
+      "Australia"
+    ],
+    "2": [
+      "Great Ganga",
+      "Nile",
+      "Amazon",
+      "Niger"
+    ],
+    "3": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "4": [
+      "Param8000",
+      "param80000",
+      "param800",
+      "param8"
+    ],
+    "5": [
+      "Reserve Bank of India",
+      "Punjab National Bank",
+      "State Bank of India",
+      "ICICI Bank"
+    ]
+  }
+]
